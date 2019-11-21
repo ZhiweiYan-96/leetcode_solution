@@ -8,7 +8,7 @@ public:
             if(nums[j]==nums[i])
                 ++j;
             else{
-                nums[++i] = nums[j++];
+                nums[++i] = nums[j++];  //Mind that ++i and i++ returns different value
             }
         }
         return ++i;
