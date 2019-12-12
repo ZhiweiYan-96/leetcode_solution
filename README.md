@@ -12,3 +12,4 @@ Problem 7: [Reverse Integer](https://github.com/14zwyan/leetcode_solution/tree/m
 
 # Stack 
 Porblem 1046: [Last Stone Weights](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_1046_last_stone_weight)
+Problem 682: [Baseball Game](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_682_baseball_game)
