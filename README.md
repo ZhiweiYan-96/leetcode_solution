@@ -5,6 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 __Problem solved: 5__
 
+# Miscellaneous
 
 Problem 26: [Remove Duplicates](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_26_remove_duplicate) 
 
