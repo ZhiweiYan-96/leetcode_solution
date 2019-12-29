@@ -20,3 +20,6 @@ Problem 682: [Baseball Game](https://github.com/14zwyan/leetcode_solution/tree/m
 
 # Heap 
 Problem 703: [Kth Largest Element in a Stream](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_703_kth_largest_element_in_a_stream)
+
+# Dynamic Programming 
+Problem 70: [Climbing Stairs](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_70_Climbing_Stairs)
