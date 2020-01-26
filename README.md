@@ -3,7 +3,7 @@
 Some opensource file for leetcode solution.  
 For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
-# Problem solved: `7` (2020-01-02)
+# Problem solved: `8` (2020-01-26)
 
 # Miscellaneous
 
@@ -25,3 +25,6 @@ Problem 703: [Kth Largest Element in a Stream](https://github.com/14zwyan/leetco
 Problem 70: [Climbing Stairs](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_70_Climbing_Stairs)
 
 Problem 1025: [Divisor Game](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_1025_divisor_game)
+
+# Greedy 
+Problem 1029: [Two City Scheduling](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_1029_two_city_shceduling)
