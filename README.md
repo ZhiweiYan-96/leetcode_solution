@@ -3,7 +3,7 @@
 Some opensource file for leetcode solution.  
 For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
-# Problem solved: `8` (2020-01-26)
+# Problem solved: `10` (2020-01-26)
 
 # Miscellaneous
 
@@ -28,3 +28,7 @@ Problem 1025: [Divisor Game](https://github.com/14zwyan/leetcode_solution/tree/m
 
 # Greedy 
 Problem 1029: [Two City Scheduling](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_1029_two_city_shceduling)
+
+Problem 1221: [Split a String in a Balanced String](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_1221_split_a_string_in_balanced_strings)
+
+Problem 1217: [Play with Chips](https://github.com/14zwyan/leetcode_solution/tree/master/Problem_1217_play_with_chips)
