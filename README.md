@@ -3,7 +3,7 @@
 Some opensource file for leetcode solution.  
 For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
-# Problem solved: `11` (2020-01-26)
+# Problem solved: `12` (2020-01-26)
 
 # Miscellaneous
 
