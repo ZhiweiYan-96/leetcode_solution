@@ -35,5 +35,4 @@ Problem 1217: [Play with Chips](https://github.com/14zwyan/leetcode_solution/tre
 
 Problem 122: [Best Time to Buy and Sell Stock](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_122_best_time_to_buy_and_sell_stock)
 
-Problem 860: [Lemonade Change]
-(https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_860_lemonade_change)
+Problem 860: [Lemonade Change](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_860_lemonade_change)
