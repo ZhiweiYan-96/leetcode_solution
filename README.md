@@ -3,7 +3,9 @@
 Some opensource file for leetcode solution.  
 For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
-# Problem solved: Easy `12` (2020-01-26) Normal `1`(2020-02-08)
+# Problem solved: 
+
+## Easy  `12` (2020-01-26) Normal  `1` (2020-02-08)
 
 # Miscellaneous
 
