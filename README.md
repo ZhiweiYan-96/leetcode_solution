@@ -3,7 +3,7 @@
 Some opensource file for leetcode solution.  
 For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
-# Problem solved: `12` (2020-01-26)
+# Problem solved: Easy `12` (2020-01-26) Normal `1`(2020-02-08)
 
 # Miscellaneous
 
@@ -36,3 +36,8 @@ Problem 1217: [Play with Chips](https://github.com/14zwyan/leetcode_solution/tre
 Problem 122: [Best Time to Buy and Sell Stock](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_122_best_time_to_buy_and_sell_stock)
 
 Problem 860: [Lemonade Change](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_860_lemonade_change)
+
+# BFS/DFS
+(Normal)Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)
+
+
