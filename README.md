@@ -40,8 +40,8 @@ Problem 122: [Best Time to Buy and Sell Stock](https://github.com/14zwyan/leetco
 Problem 860: [Lemonade Change](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_860_lemonade_change)
 
 # BFS/DFS
-(Normal)Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)
+(Normal)Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)
 
-(Normal)Problem 1302: [Deepest Leaves Sum](https://github.com/14zwyan/leetcode_solution/tree/master/DFS/Problem_1302_Deepest_Leavest_Sum)
+(Normal)Problem 1302: [Deepest Leaves Sum](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1302_Deepest_Leavest_Sum)
 
 
