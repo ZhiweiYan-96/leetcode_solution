@@ -5,7 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `12` (2020-01-26) Normal  `1` (2020-02-08)
+## Easy  `12` (2020-01-26) Normal  `2` (2020-02-09)
 
 # Miscellaneous
 
@@ -41,5 +41,7 @@ Problem 860: [Lemonade Change](https://github.com/14zwyan/leetcode_solution/tree
 
 # BFS/DFS
 (Normal)Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)
+
+(Normal)Problem 1302: [Deepest Leaves Sum](https://github.com/14zwyan/leetcode_solution/tree/master/DFS/Problem_1302_Deepest_Leavest_Sum)
 
 
