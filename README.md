@@ -5,7 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `12` (2020-01-26) Normal  `2` (2020-02-09)
+## Easy  `12` (2020-01-26) Normal  `3` (2020-02-10)
 
 # Miscellaneous
 
@@ -38,6 +38,8 @@ Problem 1217: [Play with Chips](https://github.com/14zwyan/leetcode_solution/tre
 Problem 122: [Best Time to Buy and Sell Stock](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_122_best_time_to_buy_and_sell_stock)
 
 Problem 860: [Lemonade Change](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_860_lemonade_change)
+
+(Normal)Problem 807: [Max Increase to Keep City Skyline](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_807_max_increase_to_keep_city_skyline)
 
 # BFS/DFS
 (Normal)Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)
