@@ -5,7 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `12` (2020-01-26) Normal  `4` (2020-02-11)
+## Easy  `12` (2020-01-26) Normal  `5` (2020-02-12)
 
 # Miscellaneous
 
@@ -13,6 +13,7 @@ Problem 26: [Remove Duplicates](https://github.com/14zwyan/leetcode_solution/tre
 
 Problem 7: [Reverse Integer](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_7_reverse_integer)
 
+(Normal) Problem interview 56: [Interview Problem 56](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_interview56)
 
 
 # Stack 
