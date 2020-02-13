@@ -22,7 +22,7 @@ Porblem 1046: [Last Stone Weights](https://github.com/14zwyan/leetcode_solution/
 Problem 682: [Baseball Game](https://github.com/14zwyan/leetcode_solution/tree/master/Stack/Problem_682_baseball_game)
 
 # Heap 
-Problem 703: [Kth Largest Element in a Stream](https://github.com/14zwyan/leetcode_solution/tree/master/Heap/Problem_703_kth_largest_element_in_a_stream)
+Problem 703: [Kth Largest Element in a Stream](https://github.com/14zwyan/leetcode_solution/tree/master/Heap/Problem_703_kth_largest_element_in_a_stream) :alien:(Need review)
 
 # Dynamic Programming 
 Problem 70: [Climbing Stairs](https://github.com/14zwyan/leetcode_solution/tree/master/Dynamic%20Praogramming/Problem_70_Climbing_Stairs)
@@ -44,11 +44,11 @@ Problem 860: [Lemonade Change](https://github.com/14zwyan/leetcode_solution/tree
 
 # BFS/DFS
 (Normal)Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)  
-(Normal)Problem 1302: [Deepest Leaves Sum](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1302_Deepest_Leavest_Sum) :alien:(Need review)
+(Normal)Problem 1302: [Deepest Leaves Sum](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1302_Deepest_Leavest_Sum) 
 
 
 # Hash Table 
-(Normal)Problem 1282: [Group the People Given the Group Size They Belong To](https://github.com/14zwyan/leetcode_solution/tree/master/Hash%20Table/Problem_1282_group_the_people_given_the_group_size_they_belong_to)
+(Normal)Problem 1282: [Group the People Given the Group Size They Belong To](https://github.com/14zwyan/leetcode_solution/tree/master/Hash%20Table/Problem_1282_group_the_people_given_the_group_size_they_belong_to) :alien:(Need review)
 
 # Recursion 
 (Normal)Problem 654: [Maximum Binary Tree](https://github.com/14zwyan/leetcode_solution/tree/master/Recursion/Problem_654_maximum_binary_tree)
