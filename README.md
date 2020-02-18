@@ -5,7 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `12` (2020-01-26) Normal  `6` (2020-02-12)
+## Easy  `12` (2020-01-26) Normal  `8` (2020-02-18)
 
 # Miscellaneous
 
@@ -14,6 +14,8 @@ Problem 26: [Remove Duplicates](https://github.com/14zwyan/leetcode_solution/tre
 Problem 7: [Reverse Integer](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_7_reverse_integer)
 
 (Normal) Problem interview 56: [Interview Problem 56](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_interview56)
+
+(Normal) Problem 59: [Spiral Matrix II](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_59_spiral_matrix)
 
 
 # Stack 
@@ -40,17 +42,19 @@ Problem 122: [Best Time to Buy and Sell Stock](https://github.com/14zwyan/leetco
 
 Problem 860: [Lemonade Change](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_860_lemonade_change)
 
-(Normal)Problem 807: [Max Increase to Keep City Skyline](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_807_max_increase_to_keep_city_skyline)
+(Normal) Problem 807: [Max Increase to Keep City Skyline](https://github.com/14zwyan/leetcode_solution/tree/master/Greedy/Problem_807_max_increase_to_keep_city_skyline)
 
 # BFS/DFS
-(Normal)Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)  
-(Normal)Problem 1302: [Deepest Leaves Sum](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1302_Deepest_Leavest_Sum) 
+(Normal) Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)  
+(Normal) Problem 1302: [Deepest Leaves Sum](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1302_Deepest_Leavest_Sum) 
+
+(Normal) Problem 78: [Subsets](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_78_subsets) :pig:(Need review)
 
 
 # Hash Table 
-(Normal)Problem 1282: [Group the People Given the Group Size They Belong To](https://github.com/14zwyan/leetcode_solution/tree/master/Hash%20Table/Problem_1282_group_the_people_given_the_group_size_they_belong_to) :alien:(Need review)
+(Normal) Problem 1282: [Group the People Given the Group Size They Belong To](https://github.com/14zwyan/leetcode_solution/tree/master/Hash%20Table/Problem_1282_group_the_people_given_the_group_size_they_belong_to) :alien:(Need review)
 
 # Recursion 
-(Normal)Problem 654: [Maximum Binary Tree](https://github.com/14zwyan/leetcode_solution/tree/master/Recursion/Problem_654_maximum_binary_tree)
+(Normal) Problem 654: [Maximum Binary Tree](https://github.com/14zwyan/leetcode_solution/tree/master/Recursion/Problem_654_maximum_binary_tree)
 
 
