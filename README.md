@@ -5,7 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `12` (2020-01-26) Normal  `10` (2020-02-19)
+## Easy  `12` (2020-01-26) Normal  `13` (2020-02-19)
 
 # Miscellaneous
 
@@ -18,6 +18,8 @@ Problem 7: [Reverse Integer](https://github.com/14zwyan/leetcode_solution/tree/m
 (Normal) Problem 59: [Spiral Matrix II](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_59_spiral_matrix)
 
 (Normal) Problem 8: [String to Integer](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_8_string_to_integer)
+
+(Normal) Problem 12: [Integer to Roman](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Porblem_12_integer_to_roman)
 
 
 # Stack 
@@ -60,5 +62,11 @@ Problem 860: [Lemonade Change](https://github.com/14zwyan/leetcode_solution/tree
 
 # Recursion 
 (Normal) Problem 654: [Maximum Binary Tree](https://github.com/14zwyan/leetcode_solution/tree/master/Recursion/Problem_654_maximum_binary_tree)
+
+# Linked List 
+(Normal) Problem 19: [Remove Nth Node From End of List](https://github.com/14zwyan/leetcode_solution/tree/master/Linked%20List/Problem_19_remove_nth_node_from_end_of_list)
+
+(Normal) Problem 2: [Add Two Numbers](https://github.com/14zwyan/leetcode_solution/tree/master/Linked%20List/Problem_2_add_two_numbers)
+
 
 
