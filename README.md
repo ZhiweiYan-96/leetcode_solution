@@ -5,7 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `12` (2020-01-26) Normal  `8` (2020-02-18)
+## Easy  `12` (2020-01-26) Normal  `9` (2020-02-19)
 
 # Miscellaneous
 
@@ -16,6 +16,8 @@ Problem 7: [Reverse Integer](https://github.com/14zwyan/leetcode_solution/tree/m
 (Normal) Problem interview 56: [Interview Problem 56](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_interview56)
 
 (Normal) Problem 59: [Spiral Matrix II](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_59_spiral_matrix)
+
+(Normal) Problem 8: [String to Integer](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_8_string_to_integer)
 
 
 # Stack 
