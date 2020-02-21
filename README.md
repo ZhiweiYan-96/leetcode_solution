@@ -103,6 +103,6 @@ Problem 35: [Search Insert Position](https://github.com/14zwyan/leetcode_solutio
 (Normal) Problem 338: [Counting Bits](https://github.com/14zwyan/leetcode_solution/tree/master/Bit%20Manipulation/Problem_335_counting_bits)
 
 TO ADD:
-- [ ] Dynamic Programming
+- [ ] Dynamic programming
 
 
