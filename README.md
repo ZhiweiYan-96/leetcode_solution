@@ -5,7 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `15` (2020-01-26) Normal  `13` (2020-02-19)
+## Easy  `15` (2020-01-26) Normal  `16` (2020-02-21)
 
 # Miscellaneous
 
@@ -75,12 +75,34 @@ Problem 1221: [Split a String in a Balanced String](https://github.com/14zwyan/l
 
 (Normal) Problem 19: [Remove Nth Node From End of List](https://github.com/14zwyan/leetcode_solution/tree/master/Linked%20List/Problem_19_remove_nth_node_from_end_of_list)
 
+(Normal) Problem 24: [Swap Nodes in Pairs](https://github.com/14zwyan/leetcode_solution/tree/master/Linked%20List/Problem_24_swap_nodes_in_pairs) 
+
+TO ADD:
+- [ ] Dummy nodes
+
+
 # Two Pointers 
 
+Problem 3: [Longest Substring Without Repeating Characters](https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_3_longest_substring_without_repeating_characters)
+
+- [x] Sliding window
+
+TO ADD:
+- [ ] Optimized sliding window
+- [ ] Brute force 
+
 Problem 26: [Remove Duplicates from Sorted Array](https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_26_remove_duplicates_from_sorted_array)
+
 
 # Binary Search 
 
 Problem 35: [Search Insert Position](https://github.com/14zwyan/leetcode_solution/tree/master/Binary%20Search/Problem_35_search_insert_position)
+
+# Bit Manipulation 
+
+(Normal) Problem 338: [Counting Bits](https://github.com/14zwyan/leetcode_solution/tree/master/Bit%20Manipulation/Problem_335_counting_bits)
+
+TO ADD:
+- [ ] Dynamic Programming
 
 
