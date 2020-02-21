@@ -83,7 +83,7 @@ TO ADD:
 
 # Two Pointers 
 
-Problem 3: [Longest Substring Without Repeating Characters](https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_3_longest_substring_without_repeating_characters)
+(Normal)Problem 3: [Longest Substring Without Repeating Characters](https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_3_longest_substring_without_repeating_characters)
 
 - [x] Sliding window
 
