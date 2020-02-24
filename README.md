@@ -15,6 +15,8 @@ Problem 7: [Reverse Integer](https://github.com/14zwyan/leetcode_solution/tree/m
 
 Problem 26: [Remove Duplicates](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_26_remove_duplicate) 
 
+(Normal) Problem 6: [ZigZag Converion](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_6_zigzag_conversion)
+
 (Normal) Problem 8: [String to Integer](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Problem_8_string_to_integer)
 
 (Normal) Problem 12: [Integer to Roman](https://github.com/14zwyan/leetcode_solution/tree/master/Miscellaneous/Porblem_12_integer_to_roman)
@@ -55,6 +57,8 @@ Problem 1221: [Split a String in a Balanced String](https://github.com/14zwyan/l
 
 # BFS/DFS
 
+(Normal) Problem 17: [Letter Combinations of a Phone Number](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_17_letter_combinations_of_a_phone_number)
+
 (Normal) Problem 78: [Subsets](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_78_subsets) :pig:(Need review)
 
 (Normal) Problem 797: [All Paths From Source to Target](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_797_all_paths_from_source_to_target) :pig:(Need review)
@@ -83,7 +87,9 @@ TO ADD:
 
 # Two Pointers 
 
-(Normal)Problem 3: [Longest Substring Without Repeating Characters](https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_3_longest_substring_without_repeating_characters)
+(Normal) Problem 11: [Container With Most Water]https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_11_container_with_most_water
+
+(Normal) Problem 3: [Longest Substring Without Repeating Characters](https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_3_longest_substring_without_repeating_characters)
 
 - [x] Sliding window
 
