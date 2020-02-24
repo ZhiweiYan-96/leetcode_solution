@@ -5,7 +5,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `15` (2020-01-26) Normal  `16` (2020-02-21)
+## Easy  `15` (2020-01-26) Normal  `20` (2020-02-24)
 
 # Miscellaneous
 
@@ -40,6 +40,16 @@ Problem 703: [Kth Largest Element in a Stream](https://github.com/14zwyan/leetco
 Problem 70: [Climbing Stairs](https://github.com/14zwyan/leetcode_solution/tree/master/Dynamic%20Praogramming/Problem_70_Climbing_Stairs)
 
 Problem 1025: [Divisor Game](https://github.com/14zwyan/leetcode_solution/tree/master/Dynamic%20Praogramming/Problem_1025_divisor_game)
+
+
+(Normal) Problem 5: [Longest Palindromic Substring](https://github.com/14zwyan/leetcode_solution/tree/master/Dynamic%20Praogramming/Problem_5_longest_palindromic_substring) :pig: (Need review)
+
+- [x] Brute force
+- [x] Dynamic programming 
+
+TODO:
+- [ ] Expand around center 
+- [ ]  Manacher's Algorithm
 
 # Greedy 
 
@@ -87,7 +97,7 @@ TO ADD:
 
 # Two Pointers 
 
-(Normal) Problem 11: [Container With Most Water]https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_11_container_with_most_water
+(Normal) Problem 11: [Container With Most Water](https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_11_container_with_most_water)
 
 (Normal) Problem 3: [Longest Substring Without Repeating Characters](https://github.com/14zwyan/leetcode_solution/tree/master/Two%20Pointers/Problem_3_longest_substring_without_repeating_characters)
 
