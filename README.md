@@ -7,7 +7,7 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 ## Easy  `15` (2020-01-26) Normal  `20` (2020-02-24)
 
-Rank: 95470 Acc rate: 22.66% (2020-02-24)
+Rank: 95470, Acc rate: 22.66% (2020-02-24)
 
 # Miscellaneous
 
