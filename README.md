@@ -5,9 +5,11 @@ For discussion, please email to me: yanzhw5@mail2.sysu.edu.cn
 
 # Problem solved: 
 
-## Easy  `15` (2020-01-26) Normal  `20` (2020-02-24)
+## Easy  `15` (2020-01-26) Normal  `22` (2020-02-26)
 
 Rank: 95470, Acc rate: 22.66% (2020-02-24)
+
+Rank: 89801, Acc rate: 22.85% (2020-02-26)
 
 # Miscellaneous
 
@@ -80,7 +82,16 @@ Problem 1221: [Split a String in a Balanced String](https://github.com/14zwyan/l
 (Normal) Problem 1315: [Sum of Nodes with Even-Valued Grandparent](https://github.com/14zwyan/leetcode_solution/tree/master/BFS_DFS/Problem_1315_Sum_of_Nodes_with_Even_Valued_Gradparent)  
 
 # Hash Table 
+(Normal) Problem 36: [Valid Sudoku](https://github.com/14zwyan/leetcode_solution/tree/master/Hash%20Table/Problem_36_valid_sudoku)
+
+- [x] Brute force 
+
+TODO:
+
+- [ ] Hash table
+
 (Normal) Problem 1282: [Group the People Given the Group Size They Belong To](https://github.com/14zwyan/leetcode_solution/tree/master/Hash%20Table/Problem_1282_group_the_people_given_the_group_size_they_belong_to) :alien:(Need review)
+
 
 # Recursion 
 (Normal) Problem 654: [Maximum Binary Tree](https://github.com/14zwyan/leetcode_solution/tree/master/Recursion/Problem_654_maximum_binary_tree)
@@ -115,6 +126,8 @@ Problem 26: [Remove Duplicates from Sorted Array](https://github.com/14zwyan/lee
 # Binary Search 
 
 Problem 35: [Search Insert Position](https://github.com/14zwyan/leetcode_solution/tree/master/Binary%20Search/Problem_35_search_insert_position)
+
+(Normal)Problem 34: [Find First and Last Position of Element in Sorted Array](https://github.com/14zwyan/leetcode_solution/tree/master/Binary%20Search/Problem_34_find_first_and_last_position_of_elements_in_sorted_arrays)
 
 # Bit Manipulation 
 
